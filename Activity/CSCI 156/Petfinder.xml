@@ -1,0 +1,32 @@
+<catalog title="Cute Pets">
+<pet name="Alex">
+   <type>Dog</type>
+   <breed>Labrador Retriever Mix</breed>
+   <age>Young</age>
+   <gender>Female</gender>
+   <size>Medium</size>
+   <color>Black with Brown/Chocolate</color>
+   <housetrained>No</housetrained>
+   <neutered>No</neutered>
+   <updatevaccinations>Yes</updatevaccinations>
+   <kidfriendly>Yes</kidfriendly>
+   <catfriendly>Yes</catfriendly>
+   <dogfriendly>Yes</dogfriendly>
+   <location>Hornell Area Humane Society</location>
+</pet>
+<pet name="****">
+   <type>****</type>
+   <breed>****</breed>
+   <age>****</age>
+   <gender>****</gender>
+   <size>****</size>
+   <color>****</color>
+   <housetrained>****</housetrained>
+   <neutered>****</neutered>
+   <updatevaccinations>****</updatevaccinations>
+   <kidfriendly>****</kidfriendly>
+   <catfriendly>****</catfriendly>
+   <dogfriendly>****</dogfriendly>
+   <location>****</location>
+</pet>
+</catalog>
